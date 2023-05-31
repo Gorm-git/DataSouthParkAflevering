@@ -11,4 +11,4 @@ https://raw.githubusercontent.com/Gorm-git/DataSouthParkAflevering/main/satan.js
 
 AktivitetsDiagram
 
-
+https://ibb.co/gmSsdHV
