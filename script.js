@@ -8,7 +8,7 @@ async function initApp() {
   const characterSheet = await getPosts(
     "https://cederdorff.github.io/dat-js/05-data/southpark.json"
   );
-  characterSheet.forEach(showPost);
+  showPosts(characterSheet);
 }
 
 //========= posts section =========//
